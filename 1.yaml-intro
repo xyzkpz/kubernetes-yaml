@@ -1,0 +1,27 @@
+Yaml file format
+
+1.Key value pair
+2.Array List
+3.Dictionary / Map
+
+example for 1.Key value pair
+
+Name: Kishan
+Age: 28
+
+example for 2.Array List
+
+Account:
+-  name
+-  age
+
+Mobile:
+-  name
+-  brand
+
+example for 3.Dictionary / Map
+
+Fruit:
+    name: mange
+    price: 100
+
